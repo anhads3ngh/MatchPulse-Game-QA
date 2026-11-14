@@ -1,0 +1,105 @@
+id,title,feature,platform,severity,status,owner,created_at,occurrences
+84,Manager objective progress clipped in summary in build 27.4.18,Career Mode,PlayStation,Blocker,In Progress,M. Chen,2027-04-21T18:00:00+00:00,8
+68,Localized menu label overflows at 200% scaling after rapid input,Menus & UI,PC,Blocker,Open,J. Patel,2027-04-17T14:00:00+00:00,32
+69,Filter selections reset after back navigation after rapid input,Menus & UI,PC,Blocker,Resolved,Unassigned,2027-04-10T08:00:00+00:00,4
+20,Scoreboard updates one tick late after penalty — intermittent,Match Flow,PlayStation,Blocker,In Progress,S. Park,2027-04-08T12:00:00+00:00,23
+5,Lobby invite fails after cross-platform party join,Online Play,PC,Blocker,Resolved,S. Park,2027-04-05T05:00:00+00:00,38
+100,Autosave race condition on season transition on high latency,Career Mode,Xbox,Blocker,Open,A. Singh,2027-04-01T09:00:00+00:00,49
+23,Lobby invite fails after cross-platform party join — intermittent,Online Play,PlayStation,Critical,Open,K. Wilson,2027-04-28T13:00:00+00:00,27
+27,Pack animation audio persists into next screen — intermittent,Ultimate Team,Xbox,Critical,Open,K. Wilson,2027-04-27T17:00:00+00:00,7
+25,Squad formation not persisted after rapid edits — intermittent,Ultimate Team,PC,Critical,Ready to Verify,Unassigned,2027-04-25T03:00:00+00:00,31
+41,Lobby invite fails after cross-platform party join on resume,Online Play,PlayStation,Critical,In Progress,Unassigned,2027-04-21T13:00:00+00:00,2
+73,Goal replay freezes after overtime equalizer in build 27.4.18,Match Flow,Xbox,Critical,In Progress,A. Singh,2027-04-20T07:00:00+00:00,22
+18,Subtitle timing drifts during commentary overlap,Audio & Visuals,PC,Critical,In Progress,S. Park,2027-04-19T04:00:00+00:00,37
+45,Pack animation audio persists into next screen on resume,Ultimate Team,PlayStation,Critical,Open,J. Patel,2027-04-19T03:00:00+00:00,11
+6,Opponent disconnect leads to indefinite loading,Online Play,PlayStation,Critical,Resolved,M. Chen,2027-04-19T01:00:00+00:00,11
+2,Scoreboard updates one tick late after penalty,Match Flow,Xbox,Critical,Open,S. Park,2027-04-16T18:00:00+00:00,25
+90,Subtitle timing drifts during commentary overlap in build 27.4.18,Audio & Visuals,Xbox,Critical,Open,K. Wilson,2027-04-15T18:00:00+00:00,49
+1,Goal replay freezes after overtime equalizer,Match Flow,PlayStation,Critical,In Progress,Unassigned,2027-04-15T17:00:00+00:00,1
+88,Crowd ambience loops after pause transition in build 27.4.18,Audio & Visuals,PC,Critical,In Progress,A. Singh,2027-04-14T09:00:00+00:00,37
+70,Crowd ambience loops after pause transition after rapid input,Audio & Visuals,Xbox,Critical,Ready to Verify,K. Wilson,2027-04-13T17:00:00+00:00,40
+95,Lobby invite fails after cross-platform party join on high latency,Online Play,PlayStation,Critical,In Progress,J. Patel,2027-04-10T18:00:00+00:00,41
+22,Ranked match desync following network reconnect — intermittent,Online Play,Xbox,Critical,In Progress,S. Park,2027-04-10T05:00:00+00:00,4
+61,Squad formation not persisted after rapid edits after rapid input,Ultimate Team,PC,Critical,In Progress,S. Park,2027-04-09T11:00:00+00:00,21
+19,Goal replay freezes after overtime equalizer — intermittent,Match Flow,PlayStation,Critical,Resolved,Unassigned,2027-04-08T06:00:00+00:00,39
+64,Autosave race condition on season transition after rapid input,Career Mode,Xbox,Critical,Resolved,Unassigned,2027-04-06T16:00:00+00:00,4
+26,Transfer filter produces stale market count — intermittent,Ultimate Team,Xbox,Critical,Ready to Verify,A. Singh,2027-04-06T06:00:00+00:00,13
+44,Transfer filter produces stale market count on resume,Ultimate Team,Xbox,Critical,Resolved,J. Patel,2027-04-06T05:00:00+00:00,38
+57,Halftime substitution resets stamina indicator after rapid input,Match Flow,PC,Critical,Resolved,K. Wilson,2027-04-05T12:00:00+00:00,48
+21,Halftime substitution resets stamina indicator — intermittent,Match Flow,PlayStation,Critical,Resolved,S. Park,2027-04-03T08:00:00+00:00,38
+24,Opponent disconnect leads to indefinite loading — intermittent,Online Play,PC,Major,Resolved,A. Singh,2027-04-28T07:00:00+00:00,41
+63,Pack animation audio persists into next screen after rapid input,Ultimate Team,PC,Major,Ready to Verify,A. Singh,2027-04-28T04:00:00+00:00,22
+7,Squad formation not persisted after rapid edits,Ultimate Team,PC,Major,Ready to Verify,M. Chen,2027-04-28T03:00:00+00:00,19
+35,Goal replay camera clips through advertising boards — intermittent,Audio & Visuals,PlayStation,Major,Open,Unassigned,2027-04-27T18:00:00+00:00,16
+80,Transfer filter produces stale market count in build 27.4.18,Ultimate Team,PlayStation,Major,Resolved,M. Chen,2027-04-27T05:00:00+00:00,9
+99,Pack animation audio persists into next screen on high latency,Ultimate Team,PC,Major,Ready to Verify,Unassigned,2027-04-25T16:00:00+00:00,14
+72,Subtitle timing drifts during commentary overlap after rapid input,Audio & Visuals,Xbox,Major,Open,A. Singh,2027-04-25T13:00:00+00:00,5
+94,Ranked match desync following network reconnect on high latency,Online Play,PC,Major,In Progress,Unassigned,2027-04-25T13:00:00+00:00,39
+30,Manager objective progress clipped in summary — intermittent,Career Mode,Xbox,Major,Resolved,J. Patel,2027-04-25T12:00:00+00:00,44
+96,Opponent disconnect leads to indefinite loading on high latency,Online Play,PC,Major,Open,S. Park,2027-04-23T04:00:00+00:00,46
+101,Training plan selection reverts after restart on high latency,Career Mode,Xbox,Major,Resolved,Unassigned,2027-04-23T01:00:00+00:00,47
+92,Scoreboard updates one tick late after penalty on high latency,Match Flow,PC,Major,Resolved,Unassigned,2027-04-22T15:00:00+00:00,26
+46,Autosave race condition on season transition on resume,Career Mode,Xbox,Major,Resolved,S. Park,2027-04-21T15:00:00+00:00,50
+87,Filter selections reset after back navigation in build 27.4.18,Menus & UI,PlayStation,Major,Open,M. Chen,2027-04-21T01:00:00+00:00,15
+60,Opponent disconnect leads to indefinite loading after rapid input,Online Play,PC,Major,Open,A. Singh,2027-04-20T16:00:00+00:00,48
+32,Localized menu label overflows at 200% scaling — intermittent,Menus & UI,Xbox,Major,In Progress,S. Park,2027-04-20T14:00:00+00:00,21
+4,Ranked match desync following network reconnect,Online Play,PC,Major,Ready to Verify,K. Wilson,2027-04-20T06:00:00+00:00,36
+11,Training plan selection reverts after restart,Career Mode,PC,Major,Resolved,S. Park,2027-04-19T08:00:00+00:00,27
+14,Localized menu label overflows at 200% scaling,Menus & UI,PC,Major,Open,K. Wilson,2027-04-18T06:00:00+00:00,49
+103,Controller focus skips accessibility settings on high latency,Menus & UI,PC,Major,In Progress,J. Patel,2027-04-17T08:00:00+00:00,15
+67,Controller focus skips accessibility settings after rapid input,Menus & UI,PlayStation,Major,Open,A. Singh,2027-04-17T05:00:00+00:00,41
+31,Controller focus skips accessibility settings — intermittent,Menus & UI,Xbox,Major,In Progress,A. Singh,2027-04-15T17:00:00+00:00,15
+9,Pack animation audio persists into next screen,Ultimate Team,Xbox,Major,Ready to Verify,A. Singh,2027-04-15T11:00:00+00:00,40
+71,Goal replay camera clips through advertising boards after rapid input,Audio & Visuals,PlayStation,Major,In Progress,K. Wilson,2027-04-15T09:00:00+00:00,47
+34,Crowd ambience loops after pause transition — intermittent,Audio & Visuals,PC,Major,In Progress,M. Chen,2027-04-15T06:00:00+00:00,5
+91,Goal replay freezes after overtime equalizer on high latency,Match Flow,PlayStation,Major,In Progress,S. Park,2027-04-14T16:00:00+00:00,39
+66,Manager objective progress clipped in summary after rapid input,Career Mode,PlayStation,Major,Open,Unassigned,2027-04-14T01:00:00+00:00,40
+59,Lobby invite fails after cross-platform party join after rapid input,Online Play,Xbox,Major,In Progress,M. Chen,2027-04-13T08:00:00+00:00,44
+83,Training plan selection reverts after restart in build 27.4.18,Career Mode,PlayStation,Major,Open,M. Chen,2027-04-12T17:00:00+00:00,29
+79,Squad formation not persisted after rapid edits in build 27.4.18,Ultimate Team,PC,Major,Resolved,S. Park,2027-04-12T04:00:00+00:00,2
+37,Goal replay freezes after overtime equalizer on resume,Match Flow,PC,Major,Open,A. Singh,2027-04-11T14:00:00+00:00,35
+74,Scoreboard updates one tick late after penalty in build 27.4.18,Match Flow,PC,Major,Ready to Verify,S. Park,2027-04-10T17:00:00+00:00,12
+93,Halftime substitution resets stamina indicator on high latency,Match Flow,PC,Major,Resolved,J. Patel,2027-04-10T15:00:00+00:00,40
+8,Transfer filter produces stale market count,Ultimate Team,PC,Major,Resolved,Unassigned,2027-04-09T11:00:00+00:00,9
+38,Scoreboard updates one tick late after penalty on resume,Match Flow,PC,Major,Open,Unassigned,2027-04-08T18:00:00+00:00,19
+51,Filter selections reset after back navigation on resume,Menus & UI,PlayStation,Major,Ready to Verify,M. Chen,2027-04-08T14:00:00+00:00,30
+82,Autosave race condition on season transition in build 27.4.18,Career Mode,PC,Major,Open,A. Singh,2027-04-07T18:00:00+00:00,20
+97,Squad formation not persisted after rapid edits on high latency,Ultimate Team,PlayStation,Major,In Progress,M. Chen,2027-04-07T14:00:00+00:00,31
+40,Ranked match desync following network reconnect on resume,Online Play,PC,Major,Open,K. Wilson,2027-04-07T08:00:00+00:00,4
+81,Pack animation audio persists into next screen in build 27.4.18,Ultimate Team,PlayStation,Major,Open,K. Wilson,2027-04-07T07:00:00+00:00,15
+16,Crowd ambience loops after pause transition,Audio & Visuals,PlayStation,Major,Open,K. Wilson,2027-04-06T10:00:00+00:00,40
+49,Controller focus skips accessibility settings on resume,Menus & UI,Xbox,Major,Open,K. Wilson,2027-04-06T01:00:00+00:00,13
+12,Manager objective progress clipped in summary,Career Mode,PlayStation,Major,Open,A. Singh,2027-04-05T05:00:00+00:00,38
+75,Halftime substitution resets stamina indicator in build 27.4.18,Match Flow,Xbox,Major,Open,J. Patel,2027-04-05T04:00:00+00:00,25
+65,Training plan selection reverts after restart after rapid input,Career Mode,PC,Major,Ready to Verify,J. Patel,2027-04-05T02:00:00+00:00,12
+15,Filter selections reset after back navigation,Menus & UI,Xbox,Major,Resolved,S. Park,2027-04-04T16:00:00+00:00,8
+29,Training plan selection reverts after restart — intermittent,Career Mode,Xbox,Major,Open,S. Park,2027-04-04T11:00:00+00:00,18
+58,Ranked match desync following network reconnect after rapid input,Online Play,PlayStation,Major,In Progress,A. Singh,2027-04-03T12:00:00+00:00,6
+42,Opponent disconnect leads to indefinite loading on resume,Online Play,PlayStation,Major,In Progress,S. Park,2027-04-03T11:00:00+00:00,24
+54,Subtitle timing drifts during commentary overlap on resume,Audio & Visuals,PC,Major,Open,M. Chen,2027-04-03T10:00:00+00:00,34
+86,Localized menu label overflows at 200% scaling in build 27.4.18,Menus & UI,PlayStation,Major,In Progress,Unassigned,2027-04-02T12:00:00+00:00,29
+85,Controller focus skips accessibility settings in build 27.4.18,Menus & UI,PC,Major,Open,M. Chen,2027-04-02T08:00:00+00:00,11
+104,Localized menu label overflows at 200% scaling on high latency,Menus & UI,PlayStation,Major,Open,M. Chen,2027-03-31T06:00:00+00:00,9
+47,Training plan selection reverts after restart on resume,Career Mode,Xbox,Minor,Resolved,Unassigned,2027-04-28T16:00:00+00:00,1
+3,Halftime substitution resets stamina indicator,Match Flow,PlayStation,Minor,Open,K. Wilson,2027-04-27T11:00:00+00:00,9
+33,Filter selections reset after back navigation — intermittent,Menus & UI,PC,Minor,Ready to Verify,S. Park,2027-04-26T05:00:00+00:00,22
+62,Transfer filter produces stale market count after rapid input,Ultimate Team,Xbox,Minor,Open,A. Singh,2027-04-24T11:00:00+00:00,23
+52,Crowd ambience loops after pause transition on resume,Audio & Visuals,PlayStation,Minor,In Progress,M. Chen,2027-04-23T01:00:00+00:00,44
+10,Autosave race condition on season transition,Career Mode,PlayStation,Minor,Open,A. Singh,2027-04-22T13:00:00+00:00,7
+17,Goal replay camera clips through advertising boards,Audio & Visuals,PC,Minor,In Progress,M. Chen,2027-04-20T10:00:00+00:00,15
+39,Halftime substitution resets stamina indicator on resume,Match Flow,PC,Minor,Resolved,J. Patel,2027-04-18T10:00:00+00:00,49
+56,Scoreboard updates one tick late after penalty after rapid input,Match Flow,PlayStation,Minor,Resolved,K. Wilson,2027-04-17T14:00:00+00:00,45
+53,Goal replay camera clips through advertising boards on resume,Audio & Visuals,PlayStation,Minor,Open,K. Wilson,2027-04-16T09:00:00+00:00,17
+28,Autosave race condition on season transition — intermittent,Career Mode,PC,Minor,In Progress,S. Park,2027-04-15T03:00:00+00:00,50
+43,Squad formation not persisted after rapid edits on resume,Ultimate Team,Xbox,Minor,Open,A. Singh,2027-04-14T01:00:00+00:00,15
+89,Goal replay camera clips through advertising boards in build 27.4.18,Audio & Visuals,Xbox,Minor,Resolved,M. Chen,2027-04-13T15:00:00+00:00,27
+13,Controller focus skips accessibility settings,Menus & UI,Xbox,Minor,Resolved,K. Wilson,2027-04-13T08:00:00+00:00,23
+76,Ranked match desync following network reconnect in build 27.4.18,Online Play,Xbox,Minor,Resolved,M. Chen,2027-04-12T03:00:00+00:00,20
+36,Subtitle timing drifts during commentary overlap — intermittent,Audio & Visuals,PC,Minor,In Progress,A. Singh,2027-04-10T13:00:00+00:00,7
+98,Transfer filter produces stale market count on high latency,Ultimate Team,Xbox,Minor,Open,J. Patel,2027-04-10T02:00:00+00:00,16
+78,Opponent disconnect leads to indefinite loading in build 27.4.18,Online Play,PlayStation,Minor,In Progress,S. Park,2027-04-09T14:00:00+00:00,38
+50,Localized menu label overflows at 200% scaling on resume,Menus & UI,PlayStation,Minor,Open,Unassigned,2027-04-08T07:00:00+00:00,10
+102,Manager objective progress clipped in summary on high latency,Career Mode,PlayStation,Minor,Ready to Verify,Unassigned,2027-04-06T15:00:00+00:00,24
+55,Goal replay freezes after overtime equalizer after rapid input,Match Flow,Xbox,Minor,Resolved,A. Singh,2027-04-05T07:00:00+00:00,35
+48,Manager objective progress clipped in summary on resume,Career Mode,PlayStation,Minor,In Progress,A. Singh,2027-04-05T02:00:00+00:00,12
+77,Lobby invite fails after cross-platform party join in build 27.4.18,Online Play,Xbox,Minor,Open,M. Chen,2027-04-03T12:00:00+00:00,10

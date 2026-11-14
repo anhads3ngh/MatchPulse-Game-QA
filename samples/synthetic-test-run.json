@@ -1,0 +1,83 @@
+{
+  "id": 10,
+  "created_at": "2027-04-27T18:00:00+00:00",
+  "suite": "Career Persistence",
+  "platform": "PC",
+  "seed": 2727,
+  "passed": 9,
+  "failed": 1,
+  "duration_ms": 15473,
+  "source": "Seeded",
+  "results": [
+    {
+      "name": "Career autosave recovery",
+      "feature": "Career Mode",
+      "outcome": "Passed",
+      "duration_ms": 1363,
+      "note": "Assertion succeeded; synthetic fixture matched expected output"
+    },
+    {
+      "name": "Player transfer confirmation",
+      "feature": "Career Mode",
+      "outcome": "Passed",
+      "duration_ms": 1485,
+      "note": "Assertion succeeded; synthetic fixture matched expected output"
+    },
+    {
+      "name": "Season advancement simulation",
+      "feature": "Career Mode",
+      "outcome": "Passed",
+      "duration_ms": 2097,
+      "note": "Assertion succeeded; synthetic fixture matched expected output"
+    },
+    {
+      "name": "Training plan persistence",
+      "feature": "Career Mode",
+      "outcome": "Passed",
+      "duration_ms": 2087,
+      "note": "Assertion succeeded; synthetic fixture matched expected output"
+    },
+    {
+      "name": "Manager objective progression",
+      "feature": "Career Mode",
+      "outcome": "Passed",
+      "duration_ms": 1520,
+      "note": "Assertion succeeded; synthetic fixture matched expected output"
+    },
+    {
+      "name": "Halftime resume after substitution",
+      "feature": "Match Flow",
+      "outcome": "Passed",
+      "duration_ms": 1353,
+      "note": "Assertion succeeded; synthetic fixture matched expected output"
+    },
+    {
+      "name": "Penalty shootout persistence",
+      "feature": "Match Flow",
+      "outcome": "Failed",
+      "duration_ms": 1218,
+      "note": "Simulated event payload did not match contract"
+    },
+    {
+      "name": "Goal replay \u2192 kickoff transition",
+      "feature": "Match Flow",
+      "outcome": "Passed",
+      "duration_ms": 1697,
+      "note": "Assertion succeeded; synthetic fixture matched expected output"
+    },
+    {
+      "name": "Offside decision UI synchronization",
+      "feature": "Match Flow",
+      "outcome": "Passed",
+      "duration_ms": 1160,
+      "note": "Assertion succeeded; synthetic fixture matched expected output"
+    },
+    {
+      "name": "Extra-time match completion",
+      "feature": "Match Flow",
+      "outcome": "Passed",
+      "duration_ms": 1493,
+      "note": "Assertion succeeded; synthetic fixture matched expected output"
+    }
+  ]
+}

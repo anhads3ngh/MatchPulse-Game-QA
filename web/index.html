@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0a1019" />
+  <meta name="description" content="MatchPulse — original football-game QA analytics and defect intelligence portfolio project." />
+  <title>MatchPulse — Game Quality Intelligence</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+ <div class="app-shell">
+  <aside class="sidebar" id="sidebar">
+    <a class="logo" href="#overview" aria-label="MatchPulse home"><div class="logo-glyph">M<span class="logo-dot">.</span></div><div class="logo-type">MATCH<span>PULSE</span><small>QUALITY INTELLIGENCE</small></div></a>
+    <div class="nav-label">WORKSPACE</div>
+    <nav class="navigation" aria-label="Main navigation">
+      <button class="nav-btn active" type="button" data-page="overview"><span class="nav-icon">◫</span><span>Overview</span><span class="nav-key">01</span></button>
+      <button class="nav-btn" type="button" data-page="defects"><span class="nav-icon">⬡</span><span>Defect intelligence</span><span class="nav-key">02</span></button>
+      <button class="nav-btn" type="button" data-page="lab"><span class="nav-icon">⌘</span><span>Scenario lab</span><span class="nav-key">03</span></button>
+      <button class="nav-btn" type="button" data-page="analytics"><span class="nav-icon">▥</span><span>Analytics</span><span class="nav-key">04</span></button>
+      <button class="nav-btn" type="button" data-page="report"><span class="nav-icon">▤</span><span>Release brief</span><span class="nav-key">05</span></button>
+    </nav>
+    <div class="sidebar-divider"></div>
+    <div class="nav-label">ENVIRONMENT</div>
+    <div class="env-info"><span class="pulse-dot"></span><div><b>Demo environment</b><small>Local • Synthetic data</small></div></div>
+    <div class="sidebar-bottom">
+      <div class="build-card"><div class="build-icons"><span>◉</span><span>◈</span><span>◇</span></div><div class="build-tag">ACTIVE BUILD</div><div class="build-number">27.4.18 <span class="build-dot">●</span></div><p>Fictional football game QA sandbox.</p></div>
+      <div class="author"><div class="avatar">AS</div><div><b>Anhad S. Sarna</b><small>Quality engineering lab</small></div><span>⋯</span></div>
+    </div>
+  </aside>
+  <main class="main-content">
+   <header class="topbar">
+    <div class="top-left"><button class="mobile-menu" id="menu-toggle" aria-label="Toggle navigation">☰</button><span class="breadcrumb">PROJECTS <span class="slash">/</span> STADIUM FC <span class="slash">/</span> <b id="breadcrumb-current">OVERVIEW</b></span></div>
+    <div class="top-actions"><span class="synthetic"><span class="pulse-dot"></span> SYNTHETIC DATA</span><span class="top-divider"></span><span class="clock">◷ &nbsp; APR 28, 2027</span><button class="help" type="button" id="help-btn" title="About this project">?</button></div>
+   </header>
+   <div class="content-wrap">
+     <section class="page visible" id="page-overview"></section>
+     <section class="page" id="page-defects"></section>
+     <section class="page" id="page-lab"></section>
+     <section class="page" id="page-analytics"></section>
+     <section class="page" id="page-report"></section>
+   </div>
+   <footer class="footer"><span>© 2027 MatchPulse • Independent portfolio concept</span><span>NOT AFFILIATED WITH ELECTRONIC ARTS <span class="footer-sep">/</span> SYNTHETIC DATA ONLY</span></footer>
+  </main>
+ </div>
+ <div class="modal-backdrop hidden" id="modal-backdrop"><div class="issue-drawer" id="issue-drawer" role="dialog" aria-modal="true" aria-label="Defect details"></div></div>
+ <div class="toast-stack" id="toasts" aria-live="polite"></div>
+ <script src="/app.js" defer></script>
+</body>
+</html>
